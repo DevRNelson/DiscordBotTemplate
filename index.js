@@ -20,7 +20,7 @@ bot.on('guildMemberAdd', member =>{
     channel.send(`Welcome to the server!, ${member}, please enjoy your stay!`)
 });
 
-//bestanime beginning
+//bestshow beginning
 
 const bestshow = ["Show1","Show2", "Show3", "Show4"];
 
@@ -44,7 +44,7 @@ bot.on('message', function (message) {
             break;
     }
 });
-//bestanime ending
+//bestshow ending
 
 //King Of The Hill Command
 
